@@ -1,0 +1,7 @@
+30      Curry
+11      Thompson
+9       Iguodala
+40      Durant
+23      Green
+
+Font: Copperplate, 14
